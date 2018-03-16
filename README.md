@@ -1,3 +1,5 @@
+https://www.jianshu.com/p/8d863495fe2a
+
 # WNXPageView框架
 #####封装的PageView框架，实现了图片轮播，手势滑动功能
 ###功能
